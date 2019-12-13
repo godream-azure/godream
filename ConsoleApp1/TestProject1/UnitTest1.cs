@@ -13,7 +13,7 @@ namespace TestProject1
         [Test]
         public void Test1()
         {
-            Assert.AreEqual(4,Business.Add(1, 2));
+            Assert.AreEqual(3,Business.Add(1, 2));
         }
     }
 }
